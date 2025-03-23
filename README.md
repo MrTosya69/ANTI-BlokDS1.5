@@ -1,6 +1,5 @@
 # ANTI-BlokDS1.5 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=25 />
 Борьба с "Всероссийское движение Анти-дискорд"
-Ориг код: https://github.com/Flowseal/zapret-discord-youtube
 
 ## ⚙️Использование
 
@@ -9,3 +8,5 @@
 2. Распакуйте содержимое архива по пути, который не содержит кириллицу/спец. символы
 
 3. Запустите нужный файл
+
+# Скачать файл тут: https://disk.yandex.ru/d/Y1fio8kTozbQlg
