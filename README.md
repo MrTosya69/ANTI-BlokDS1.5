@@ -1,7 +1,6 @@
 # ANTI-BlokDS1.5 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=25 />
 Борьба с "Всероссийское движение Анти-дискорд"
-
-# Ориг код: https://github.com/Flowseal/zapret-discord-youtube
+Ориг код: https://github.com/Flowseal/zapret-discord-youtube
 
 ## ⚙️Использование
 
